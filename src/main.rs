@@ -10,5 +10,5 @@ fn main() {
         Err(_) => return ()
     };
     let arr = [07,17,27,37,46];
-    println!("{}", arr[arr_index])
+    println!("{}", arr[arr_index]);
 }
